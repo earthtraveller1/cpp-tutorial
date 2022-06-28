@@ -7,6 +7,7 @@ Now, if you've already done some form of programming before, most of these conce
 And yes, this chapter might be a little boring since it's mainly just theory rather than actual programming, but I promise we'll get to hands-on programming in the next chapter.
 
 ### Types
+There are different types of languages: Dynamically typed languages and Statically typed languages. Dynamically typed means that when you declare a variable (see below) it will automatically choose the type. For example, in JavaScript, if you do let hello = "Hello" it will automatically choose the type, which is a string. Statically typed means you have to choose the type, and the type cannot change. If you do string hello = "Hello" in C++, it will assign the variable as a string, and you cannot change the type. C++ is a statically typed language where you choose the type. Using a number like 4 wont work with a string type.
 
 In C++, there are things known as data-types. Data-types are exactly what they sounds like: types of data. There are a lot of different data-types in C++, but for now, you only need to know the following types.
 
