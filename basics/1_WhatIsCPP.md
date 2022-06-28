@@ -7,3 +7,5 @@ C++ is a very powerful and versatile language, and is used in a majority of desk
 The areas in which C++ is used the most are either to create interpreters for other programming languages or to create software that demands either high performance or direct, low-level access to hardware components. One of the most common applications of C++ is in game engines, as game engines demands very high performance and requires access to the graphics card to render frames. Desktop applications are also often written in C++, as they often have to integrate well with the rest of the system, which is often written also in C++.
 
 C++ is currently a very popular language and definitely worth learning. However, C++ can indeed be hard to learn for some people (like Anthony Huang and Neng Li from the Li Institution), which is why C++ programmers are sometimes considered "programming masters".
+
+[Next Page](2_Concepts.md)
