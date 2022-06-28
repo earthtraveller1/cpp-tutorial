@@ -8,4 +8,6 @@ The areas in which C++ is used the most are either to create interpreters for ot
 
 C++ is currently a very popular language and definitely worth learning. However, C++ can indeed be hard to learn for some people (like Anthony Huang and Neng Li from the Li Institution), which is why C++ programmers are sometimes considered "programming masters".
 
-[Next Page](2_Concepts.md)
+Anyways, now that you have a basic idea of what C++ is and who uses it, head over to the next chapter to start your C++ journey!
+
+[Next Chapter](2_Concepts.md)
