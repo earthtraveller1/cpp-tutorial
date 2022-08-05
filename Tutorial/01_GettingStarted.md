@@ -116,6 +116,8 @@ Hello World!
 
 Start by creating a new Console App project and give it the name "HelloWorld". Upon project creation, the "Hello World" program should be created automatically by the IDE. To run the program, simply press Ctrl+F5, and a console window should appear with the text "Hello World" in it.
 
+## Conclusion
+
 Currently, as of right now, it is likely that the reader has little to no understanding of the Hello World program, but most of the concepts within it will soon be explained in futures chapters.
 
 [Next Page](02_Data.md)
