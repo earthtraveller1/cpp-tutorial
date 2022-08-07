@@ -1,17 +1,11 @@
 # C++ Tutorial
 
-This tutorial was created for the purpose of introducing you, the reader, to the C++ programming language and giving you the skills required to write C++ programs. It will not cover the entire C++ programming language nor will it explain basic programming concepts (variables, functions, etc). As a result, this tutorial assumes that the reader have prior experience with another programming language, though this tutorial will not assume which one.
-
-As stated before, this tutorial will not explain fundamental programming concepts such as variables, functions, arrays (also known as *lists* in some languages) but rather explain how such concepts are implemented in C++ instead. This is because C++ at it's core is not a beginner language and this tutorial will not attempt to pretend that it is.
+Hello, and welcome to this C++ tutorial! I assume that you are here because you wanted to learn C++. C++ is a general-purposed, compiled language that performs very well and is often used in cases in which performance is very important, such us in video games, web renderers, and operating systems. Another advantage of C++ is that it can directly interface with low-level C APIs such as OpenGL, Vulkan, and Win32, making it suitable for programs that needs as much control of it's execution environment as possible. C++ is also a very versatile programming language, making it suitable for large-scale software projects. And, of course, some people use C++ just because they like it (FYI I'm not one of them).
 
 ## Assumptions
 
-In order to begin using this tutorial to begin programming in C++, there are a few requirements that must be met.
+C++ is never designed to be a beginner language, and this tutorial won't try to pretend that it is one. Therefore, if you are someone who has little to no programming experience, I would highly suggest using a different language like Python to get started instead, as the learning curve in Python is much smoother. As a result, this tutorial assumes that you have experience with another programming language before, though it won't assume which language specifically. Therefore, you understand core programming concepts such as functions, variables, arrays (known as _lists_ in some languages), etc.
 
-- As stated multiple times previously, this tutorial assumes that the reader have some level of experience with programming in another language and understands core programming concepts such as variables and functions.
-- This tutorial also assumes that the reader is also capable of using an operating system of their choice productively and can perform tasks such as installing programs, operating the command line, etc.
-- Another assumption is that you are familiar with basic arithmetic operations (addition, subtraction, multiplication, absolute value, exponentiation, floor, etc.), though this is not heavily required.
+## Getting Started
 
-This tutorial does not assume that you have previous experience with the C programming language. The fact that one needs to be familiar with C to learn C++ is mere false. Having previous experience with C might help the reader get familiar with the syntax of C++ faster, but there are numerous practices in used commonly in C programs that are considered bad practice in C++.
-
-[Next Page](Tutorial/01_GettingStarted.md)
+To get started programming in C++, go [here](Tutorial/01_GettingStarted.md)
