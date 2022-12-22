@@ -6,4 +6,6 @@ This tutorial aims to teach the reader how to use Modern C++. Essentially, C++20
 
 Also, one thing that has to be made clear is the assumptions that this tutorial makes about you, the reader. First of all, C++ is not a beginner's language, and this tutorial will not pretend that it is. Therefore, if you have little to no previous experience in programming, I would highly suggest you start with a different language rather than C++ and/or use a different tutorial. Part of this is that this tutorial assumes that the reader has some level of experience in programming with a different language, though we won't assume which one.
 
+We are also assuming that you know how to use your operating system of choice, you have no difficulty installing programs, and you are comfortable working in a terminal.
+
 To get started, head to the [getting started](Tutorial/01_GettingStarted.md) page and I'll see you from there!
