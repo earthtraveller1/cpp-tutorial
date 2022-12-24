@@ -105,3 +105,5 @@ Here's a basic breakdown of the command.
 If this command produces no output, it indicates succcess and should produce a file called `helloworld` in the current working directory. To run it, simply run `./helloworld`.
 
 Congratulations, you have written and compiled your first C++ program! Go to the next section to learn more about the C++ language itself.
+
+[Next Section](02_LanguageBasics.md)
